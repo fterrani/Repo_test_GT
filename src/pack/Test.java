@@ -7,7 +7,10 @@ public class Test
 	{
 		System.out.println( "Commit master 1" );
 		System.out.println( "Commit master 2" );
+
 		System.out.println( "Commit branch1 1" );
 		System.out.println( "Commit branch1 2" );
+		System.out.println("Commit master 3"); //Aurélie
+
 	}
 }
